@@ -1,6 +1,6 @@
 # EECE 4811 HW2
 
-## Names:
+## Names: Tim,Nick
 
 # Q1 Lock Analysis
 
